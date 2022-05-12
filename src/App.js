@@ -12,7 +12,7 @@ class Video extends Component {
             <h3>Example Athelete A</h3>
             <ReactPlayer
               className='react-player'
-              url= 'videos/danu.MP4'
+              url= 'https://danu-project.s3.eu-west-2.amazonaws.com/danu.mp4'
               width='50%'
               height='50%'
               playing={true}
